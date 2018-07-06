@@ -1,0 +1,59 @@
+[33mcommit 7532a3354321b72d699df1a0f4b768ec95530f4d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: zhangdd <2643555865@qq.com>
+Date:   Fri Jul 6 21:45:18 2018 +0800
+
+    remove test.txt
+
+[33mcommit 0c5ce21e0a1f1cc9674a859496e3cfce1cab37b7[m
+Author: zhangdd <2643555865@qq.com>
+Date:   Fri Jul 6 21:42:04 2018 +0800
+
+    add test.txt
+
+[33mcommit 51d5d074125665c72ca45489a579e11647a9875a[m
+Author: zhangdd <2643555865@qq.com>
+Date:   Fri Jul 6 21:36:50 2018 +0800
+
+    remove test.txt
+
+[33mcommit 4c0a8dc3b5c4d9f5133f9dd5f66431bce37e5c82[m
+Author: zhangdd <2643555865@qq.com>
+Date:   Fri Jul 6 21:28:07 2018 +0800
+
+    add test.txt
+
+[33mcommit 5f168ed8770142075d8ec100bc8f60ebbf0c9484[m
+Author: zhangdd <2643555865@qq.com>
+Date:   Fri Jul 6 21:11:08 2018 +0800
+
+    git tracks changes
+
+[33mcommit e9481006b4c62783508559ac637406a1d8ea39db[m
+Author: zhangdd <2643555865@qq.com>
+Date:   Fri Jul 6 00:16:44 2018 +0800
+
+    understand how stage works
+
+[33mcommit 24d599dc91a3b24408234263e2f8d34f30ae2509[m
+Author: zhangdd <2643555865@qq.com>
+Date:   Thu Jul 5 22:38:54 2018 +0800
+
+    append GPL
+
+[33mcommit 4d2af004640011a5d664abf3f6e69d785c5df3ba[m
+Author: zhangdd <2643555865@qq.com>
+Date:   Thu Jul 5 22:37:03 2018 +0800
+
+    wrote a readme file
+
+[33mcommit 6d9a809c5fcf5fd8d1f70c9b28f783ac24edf619[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: zhangdd <2643555865@qq.com>
+Date:   Wed Jul 4 23:01:45 2018 +0800
+
+    demo
+
+[33mcommit 4b7cddf9c48dac3e20a75cc63cac4d74897134ac[m
+Author: zddzdd <2643555865@qq.com>
+Date:   Wed Jul 4 19:53:22 2018 +0800
+
+    Initial commit
