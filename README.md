@@ -5,4 +5,5 @@ Git tracks changes.
 
 乱码问题
 
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick AND simple.
