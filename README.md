@@ -8,4 +8,4 @@ Git tracks changes.
 
 Creating a new branch is quick AND simple.
 checkout branch test!
-first update and pushed!
+second update and pushed!
